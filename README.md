@@ -1,0 +1,2 @@
+This project focuses on building an interactive Sales Dashboard using Microsoft Excel. The dashboard provides key insights into sales performance, helping stakeholders easily track metrics such as product performance, regional sales distribution, and overall sales trends.
+The goal of this project is to create a dynamic and easy-to-use dashboard that visualizes sales data in a structured and interactive manner.
